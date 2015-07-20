@@ -9,11 +9,11 @@
     float:left;
     width:240px;
     height:38px;
-    background:url(https://github.com/schapira/util/raw/master/order.gif) no-repeat left;
+    background:url(order.gif) no-repeat left;
 }
 
 .custom #order_button:hover {
-    background:url(https://github.com/schapira/util/raw/master/order.gif) no-repeat left;
+    background:url(order.gif) no-repeat left;
 }
                    
                    
